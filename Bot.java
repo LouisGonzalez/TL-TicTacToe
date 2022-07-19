@@ -1,6 +1,5 @@
 public class Bot extends Player {
  
-
     public Bot(Game game, Board board){
         super(game, board);
     }
