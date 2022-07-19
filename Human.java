@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Human extends Player {
+
     
     public Human(Game game, Board board){
         super(game, board);
